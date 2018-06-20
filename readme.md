@@ -69,7 +69,7 @@ For now, this function will serve as placeholder and won't actually do anything 
 Let's try creating that store again:
 
 ```javascript
-createStore(reducer)
+const store = createStore(reducer)
 ```
 
 Success!
